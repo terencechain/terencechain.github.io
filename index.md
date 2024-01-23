@@ -8,6 +8,7 @@ Hi, I'm Terence. I'm [passionate about open-source](https://github.com/terencech
 
 #### Publications
 I periodically contribute to Hackmd, Ethresearch, and Substack:
+- [Optimizing Interactions Between Ethereum Consensus & Execution Clients](https://substack.com/home/post/p-140705743?source=queue)
 - [Validator Timing Game Post EIP-4844](https://ethresear.ch/t/validator-timing-game-post-eip4844/18129)
 - [Forward Inclusion List](https://ethresear.ch/t/specing-out-forward-inclusion-list-w-dedicated-gas-limits/17115)
 - [Writing an Ethereum Consensus Client: Lessons & Future](https://substack.com/home/post/p-139182302?source=queue)
