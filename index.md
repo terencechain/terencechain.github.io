@@ -8,6 +8,7 @@ Hi, I'm Terence. I'm [passionate about open-source](https://github.com/terencech
 
 #### Publications
 I  contribute to Hackmd, EthResearch, and Substack:
+- [Inclusion List End to End Workflow](https://ethresear.ch/t/inclusion-list-eip-7547-end-to-end-workflow/18810)
 - [Why You Should Care About ePBS](https://terencechain.substack.com/p/why-you-should-care-about-epbs)
 - [Minimal ePBS changes - Beacon Chain Edition](https://ethresear.ch/t/minimal-epbs-beacon-chain-changes/18653)
 - [Optimizing Interactions Between Ethereum Consensus & Execution Clients](https://substack.com/home/post/p-140705743?source=queue)
