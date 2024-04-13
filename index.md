@@ -8,6 +8,7 @@ Hi, I'm Terence. I'm [passionate about open-source](https://github.com/terencech
 
 #### Publications
 I  contribute to Hackmd, EthResearch, and Substack:
+- [Block-auction ePBS versus Execution Ticket](https://ethresear.ch/t/block-auction-epbs-versus-execution-ticket/19232)
 - [Extend Inclusion List (EIP-7547) for Blob Transactions](https://hackmd.io/@ttsao/ryzAw9PRa)
 - [Censorship on L1 and Inclusion List](https://hackmd.io/@ttsao/ByO9D-Uaa)
 - [Inclusion List End to End Workflow](https://ethresear.ch/t/inclusion-list-eip-7547-end-to-end-workflow/18810)
