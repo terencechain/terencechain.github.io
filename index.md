@@ -6,8 +6,8 @@ Hi, I'm Terence. I'm [passionate about open-source](https://github.com/terencech
 - Maintainer of [Prysm](https://github.com/prysmaticlabs/prysm), an Ethereum consensus layer client developed in Go.
 - Contributed to Ethereum's [Consensus Specs](https://github.com/ethereum/consensus-specs), [MEV-Boost](https://github.com/flashbots/mev-boost), and [Builder Specs](https://github.com/ethereum/builder-specs).
 
-#### Publications
-I  contribute to Hackmd, EthResearch, and Substack:
+#### L1 Stuff
+- [ePBS: Bypassing Relayer](https://hackmd.io/@ttsao/bypassing-relayer)
 - [Block-auction ePBS versus Execution Ticket](https://ethresear.ch/t/block-auction-epbs-versus-execution-ticket/19232)
 - [Extend Inclusion List (EIP-7547) for Blob Transactions](https://hackmd.io/@ttsao/ryzAw9PRa)
 - [Censorship on L1 and Inclusion List](https://hackmd.io/@ttsao/ByO9D-Uaa)
@@ -21,11 +21,8 @@ I  contribute to Hackmd, EthResearch, and Substack:
 - [Navigating Ethereum's 2024 Consensus Landscape](https://substack.com/home/post/p-137196839?source=queue)
 - [Reducing Prysm Proposer Slot 0 Propose Time by 800ms](https://hackmd.io/lWq6jEVhThy72CnAkpTvig)
 
-### L2 Research
+### L2 stuff
 - Worked on permissionless fraud proofs with [BoLD](https://github.com/OffchainLabs/bold/blob/main/docs/research-specs/BOLDChallengeProtocol.pdf) and its [implementation](https://github.com/OffchainLabs/bold).
-
-#### Sequencing Thoughts
-- Explored some ideas on [Sequencing](https://www.youtube.com/watch?v=wIrz1Rk-hmo&pp=ygUeZGVjZW50cmFsaXplZCBzZXF1ZW5jaW5nIGV0aGNj).
 
 ## Contact
 Connect with me on [Twitter](https://twitter.com/terencechain) or reach out via [Email](ttsao@offchainlabs.com).
