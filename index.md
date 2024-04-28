@@ -7,6 +7,7 @@ Hi, I'm Terence. I'm [passionate about open-source](https://github.com/terencech
 - Contributed to Ethereum's [Consensus Specs](https://github.com/ethereum/consensus-specs), [MEV-Boost](https://github.com/flashbots/mev-boost), and [Builder Specs](https://github.com/ethereum/builder-specs).
 
 #### L1 Stuff
+- [ePBS: Annotated Validator Spec](https://hackmd.io/@ttsao/epbs-annotated-validator)
 - [ePBS: Bypassing Relayer](https://hackmd.io/@ttsao/bypassing-relayer)
 - [Block-auction ePBS versus Execution Ticket](https://ethresear.ch/t/block-auction-epbs-versus-execution-ticket/19232)
 - [Extend Inclusion List (EIP-7547) for Blob Transactions](https://hackmd.io/@ttsao/ryzAw9PRa)
