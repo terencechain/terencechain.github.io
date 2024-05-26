@@ -12,6 +12,7 @@ Specs](https://github.com/ethereum/builder-specs).
 
 ### L1 Writings
 
+- [Building Blocks - Closed Software, Competitions](https://hackmd.io/@ttsao/building-blks-competitions)
 - [ePBS: Builder Reveal Timing Game](https://ethresear.ch/t/builder-reveal-timing-game-in-epbs/19424)
 - [ePBS: Annotated Validator Spec](https://hackmd.io/@ttsao/epbs-annotated-validator)
 - [ePBS: Bypassing Relayer](https://hackmd.io/@ttsao/bypassing-relayer)
