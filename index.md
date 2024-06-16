@@ -12,6 +12,7 @@ Specs](https://github.com/ethereum/builder-specs).
 
 ### L1 Writings
 
+- [Block Proposing Timelines in ePBS](https://ethresear.ch/t/block-proposing-validating-timelines-for-1-mev-boost-2-epbs-and-3-epbs-with-mev-boost/19782)
 - [Advantage of Pipelining Consensus and Execution: Delayed Execution](https://ethresear.ch/t/advantage-of-pipelining-consensus-and-execution-delayed-execution/19668)
 - [Building Blocks - Closed Software, Competitions](https://hackmd.io/@ttsao/building-blks-competitions)
 - [ePBS: Builder Reveal Timing Game](https://ethresear.ch/t/builder-reveal-timing-game-in-epbs/19424)
