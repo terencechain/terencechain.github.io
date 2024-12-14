@@ -12,6 +12,14 @@ Specs](https://github.com/ethereum/builder-specs).
 
 ### L1 Writings
 
+- [IL tx invalidation complexity](https://hackmd.io/@ttsao/tx-invalidation-complexity)
+- [IL and out of protocol risk](https://hackmd.io/@ttsao/il-market-risks)
+- [Extending blob tx to IL](https://hackmd.io/@ttsao/blob-focil)
+- [IL tx scoring function](https://hackmd.io/@ttsao/il-tx-scoring)
+- [Same slot vs next slot inclusion list](https://hackmd.io/@ttsao/same-vs-next-slot-il)
+- [Inclusion List Timing Constraints](https://ethresear.ch/t/inclusion-list-timing-constraints/20198)
+- [Builder Bidding Behaviors in ePBS](https://ethresear.ch/t/builder-bidding-behaviors-in-epbs/20129)
+- [FOCIL Resource Design Considerations](https://ethresear.ch/t/focil-resource-design-considerations/20457)
 - [ePBS Forkchoice Attacks](https://ethresear.ch/t/fork-choice-attacks-and-protections-in-epbs/19951)
 - [ePBS FAQ #0](https://hackmd.io/@ttsao/epbs-faq0)
 - [Block Proposing Timelines in ePBS](https://ethresear.ch/t/block-proposing-validating-timelines-for-1-mev-boost-2-epbs-and-3-epbs-with-mev-boost/19782)
