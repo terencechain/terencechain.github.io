@@ -12,6 +12,8 @@ Specs](https://github.com/ethereum/builder-specs).
 
 ### L1 Writings
 
+- [How to follow ethereum core development](https://hackmd.io/@ttsao/follow-core-dev)
+- [IL committee selection](https://hackmd.io/@ttsao/il-committee-selection)
 - [IL tx invalidation complexity](https://hackmd.io/@ttsao/tx-invalidation-complexity)
 - [IL and out of protocol risk](https://hackmd.io/@ttsao/il-market-risks)
 - [Extending blob tx to IL](https://hackmd.io/@ttsao/blob-focil)
