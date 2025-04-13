@@ -12,6 +12,10 @@ Specs](https://github.com/ethereum/builder-specs).
 
 ### L1 Writings
 
+- [Prysm forkchoice implementation](https://hackmd.io/@ttsao/prysm-fc)
+- [FOCIL with Delayed Execution under epbs](https://hackmd.io/@ttsao/focil-delayed-exec-under-epbs)
+- [Delayed execution design tradeoffs](https://ethresear.ch/t/delayed-execution-design-tradeoffs/21877)
+- [Prysm recommendations for Fusaka](https://hackmd.io/@ttsao/fusaka-prysm-rec)
 - [How to follow ethereum core development](https://hackmd.io/@ttsao/follow-core-dev)
 - [IL committee selection](https://hackmd.io/@ttsao/il-committee-selection)
 - [IL tx invalidation complexity](https://hackmd.io/@ttsao/tx-invalidation-complexity)
